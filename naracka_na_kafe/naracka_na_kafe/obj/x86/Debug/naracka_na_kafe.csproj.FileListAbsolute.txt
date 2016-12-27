@@ -1,0 +1,16 @@
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.Form1.resources
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.Properties.Resources.resources
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\bin\Debug\naracka_na_kafe.exe
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\bin\Debug\naracka_na_kafe.pdb
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.exe
+c:\users\marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.pdb
+C:\Users\Marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.csprojResolveAssemblyReference.cache
+C:\Users\Marija\documents\visual studio 2010\Projects\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.csproj.GenerateResource.Cache
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.exe
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.pdb
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\bin\Debug\naracka_na_kafe.exe
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\bin\Debug\naracka_na_kafe.pdb
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.csprojResolveAssemblyReference.cache
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.Form1.resources
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.Properties.Resources.resources
+C:\Users\Marija\Desktop\naracka_na_kafe\naracka_na_kafe\obj\x86\Debug\naracka_na_kafe.csproj.GenerateResource.Cache
